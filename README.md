@@ -47,4 +47,4 @@ Notes
 The random number is generated after your guess is entered (and only if it's not 0), so an invalid guess doesn't "use up" a random number.
 The game loops indefinitely until you choose to exit by entering 0
 
-Created by Yasin
+Created by Yasin 
