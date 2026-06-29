@@ -1,4 +1,3 @@
-# Squid-Game-Python
 Number Guessing Game
 
 A simple command-line game where you try to guess a random number chosen by the computer.
@@ -17,7 +16,6 @@ Requirements
 
 
 Python 3.x
-My Python version:3.13.7 
 
 
 Usage
@@ -38,13 +36,16 @@ Input Validation
 
 
 Non-numeric input (e.g. letters or symbols) is caught and won't crash the program — you'll be asked to try again.
-Numbers outside the 1–10 range are rejected with a message asking you to choose again.
+Numbers outside the 1-10 range are rejected with a message asking you to choose again.
 
 
 Notes
 
 
 The random number is generated after your guess is entered (and only if it's not 0), so an invalid guess doesn't "use up" a random number.
-The game loops indefinitely until you choose to exit by entering 0
+The game loops indefinitely until you choose to exit by entering 0.
 
-Created by Yasin 
+
+Author
+
+Created by Yasin
